@@ -62,14 +62,3 @@ executive_productivity_agent/
 
 - Cursor / Claude / ChatGPT — scaffolding of Streamlit layout, data modelling and clean code structure.
 - All factual extraction performed manually from the official data pack to guarantee grounding.
-
-## Demo
-
-1. Launch the app (`streamlit run app.py`).
-2. Set as-of date to **Thursday 24 Sep** (default) to see overdue + unclear items.
-3. Try the suggested questions or type your own.
-4. Switch to Monday / Wednesday to see how statuses evolve.
-
----
-
-Built for the AIONOS Agentic AI Factory assignment.
