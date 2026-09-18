@@ -1,11 +1,11 @@
-# Executive Productivity Agent — Assignment 1 (AIONOS)
+# Executive Productivity Agent — Assignment 1
 
 **User:** Arjun Malhotra (VP Sales)  
 **Week simulated:** Monday 21 Sep 2026 – Friday 25 Sep 2026  
 
 A working, clickable prototype that turns messy executive inputs (meeting transcript, emails, calendars, voice notes) into a useful **daily action brief** and supports natural-language questions.
 
-## Features (as required)
+## Features
 
 - Identifies commitments made by the executive
 - Separates **My Actions** from **Waiting on Others**
@@ -15,7 +15,7 @@ A working, clickable prototype that turns messy executive inputs (meeting transc
 - Produces a prioritised daily brief
 - Answers questions such as “What did I promise Raghav?” or “What needs action today?”
 
-## Quick Start (one-command local run)
+## Quick Start
 
 ```bash
 # Clone / download this repo, then:
@@ -37,7 +37,7 @@ executive_productivity_agent/
 └── README.md
 ```
 
-## Architecture (short)
+## Architecture
 
 1. **Data Pack → Structured KB** (`data.py`)  
    All facts, commitments, deadlines and ownership statements were manually extracted and deduplicated. No invented information.
