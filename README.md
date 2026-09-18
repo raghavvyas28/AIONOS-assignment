@@ -1,4 +1,4 @@
-# Executive Productivity Agent — Assignment 1
+# Executive Productivity Agent
 
 **User:** Arjun Malhotra (VP Sales)  
 **Week simulated:** Monday 21 Sep 2026 – Friday 25 Sep 2026  
